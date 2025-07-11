@@ -84,7 +84,7 @@ tesla_2025_simulated_predictions.xlsx	Simulated forecast for future Tesla stock 
 bash
 Copy
 Edit
-git clone https://github.com/your-username/tesla-stock-prediction.git
+git clone https://github.com/rahulraimau/tesla-stock-prediction.git
 cd tesla-stock-prediction
 2. Install Dependencies
 bash
